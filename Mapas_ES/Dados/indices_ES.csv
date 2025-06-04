@@ -1,0 +1,79 @@
+﻿CD_MUN;NM_MUN;TIPO_RURAL_URBANO;AREA_MUN;POPULACAO_MUN;DENS_DEMOG_MUN;PORTE_MUN;IDHM
+3200102;Afonso Cláudio;Rural Adjacente;941,188;30684;32,60;Pequeno II;0,667
+3200169;Água Doce do Norte;Rural Adjacente;473,729;12042;25,42;Pequeno I;0,678
+3200136;Águia Branca;Rural Adjacente;454,448;9711;21,37;Pequeno I;0,652
+3200201;Alegre;Intermediário Adjacente;756,860;29177;38,55;Pequeno II;0,721
+3200300;Alfredo Chaves;Rural Adjacente;615,677;13836;22,47;Pequeno I;0,710
+3200359;Alto Rio Novo;Rural Adjacente;227,617;7434;32,66;Pequeno I;0,664
+3200409;Anchieta;Rural Adjacente;409,691;29984;73,19;Pequeno II;0,730
+3200508;Apiacá;Rural Adjacente;193,984;7223;37,24;Pequeno I;0,673
+3200607;Aracruz;Urbano;1420,285;94765;66,72;Médio;0,752
+3200706;Atílio Vivácqua;Rural Adjacente;232,868;10540;45,26;Pequeno I;0,708
+3200805;Baixo Guandu;Intermediário Adjacente;909,039;30674;33,74;Pequeno II;0,702
+3200904;Barra de São Francisco;Rural Adjacente;944,521;42498;44,99;Pequeno II;0,683
+3201001;Boa Esperança;Rural Adjacente;428,717;13608;31,74;Pequeno I;0,679
+3201100;Bom Jesus do Norte;Urbano;89,084;10254;115,10;Pequeno I;0,734
+3201159;Brejetuba;Rural Adjacente;354,404;12985;36,64;Pequeno I;0,656
+3201209;Cachoeiro de Itapemirim;Urbano;864,583;185786;214,89;Grande;0,746
+3201308;Cariacica;Urbano;279,718;353491;1263,74;Grande;0,718
+3201407;Castelo;Intermediário Adjacente;663,515;36930;55,66;Pequeno II;0,726
+3201506;Colatina;Urbano;1398,219;120033;85,85;Grande;0,746
+3201605;Conceição da Barra;Intermediário Adjacente;1182,587;27458;23,22;Pequeno II;0,681
+3201704;Conceição do Castelo;Rural Adjacente;369,778;11937;32,28;Pequeno I;0,670
+3201803;Divino de São Lourenço;Rural Adjacente;174,039;5083;29,21;Pequeno I;0,632
+3201902;Domingos Martins;Rural Adjacente;1229,210;35416;28,81;Pequeno II;0,669
+3202009;Dores do Rio Preto;Rural Adjacente;159,298;6596;41,41;Pequeno I;0,654
+3202108;Ecoporanga;Rural Adjacente;2285,369;21992;9,62;Pequeno II;0,662
+3202207;Fundão;Urbano;286,854;18014;62,80;Pequeno I;0,718
+3202256;Governador Lindenberg;Rural Adjacente;360,016;11009;30,58;Pequeno I;0,694
+3202306;Guaçuí;Intermediário Adjacente;468,185;29358;62,71;Pequeno II;0,703
+3202405;Guarapari;Urbano;589,825;124656;211,34;Grande;0,731
+3202454;Ibatiba;Intermediário Adjacente;240,278;25380;105,63;Pequeno II;0,647
+3202504;Ibiraçu;Intermediário Adjacente;201,248;11723;58,25;Pequeno I;0,726
+3202553;Ibitirama;Rural Adjacente;330,874;9520;28,77;Pequeno I;0,622
+3202603;Iconha;Rural Adjacente;203,528;12326;60,56;Pequeno I;0,729
+3202652;Irupi;Rural Adjacente;184,807;13710;74,19;Pequeno I;0,637
+3202702;Itaguaçu;Rural Adjacente;535,021;13589;25,40;Pequeno I;0,702
+3202801;Itapemirim;Intermediário Adjacente;550,710;39832;72,33;Pequeno II;0,654
+3202900;Itarana;Rural Adjacente;295,189;10597;35,90;Pequeno I;0,684
+3203007;Iúna;Intermediário Adjacente;460,586;28590;62,07;Pequeno II;0,666
+3203056;Jaguaré;Intermediário Adjacente;659,751;28931;43,85;Pequeno II;0,678
+3203106;Jerônimo Monteiro;Rural Adjacente;177,342;11575;65,27;Pequeno I;0,698
+3203130;João Neiva;Intermediário Adjacente;284,735;14079;49,45;Pequeno I;0,753
+3203163;Laranja da Terra;Rural Adjacente;458,370;11094;24,20;Pequeno I;0,656
+3203205;Linhares;Urbano;3496,263;166786;47,70;Grande;0,724
+3203304;Mantenópolis;Rural Adjacente;321,418;12770;39,73;Pequeno I;0,657
+3203320;Marataízes;Intermediário Adjacente;130,268;41929;321,87;Pequeno II;0,696
+3203346;Marechal Floriano;Rural Adjacente;285,495;17641;61,79;Pequeno I;0,710
+3203353;Marilândia;Rural Adjacente;327,642;12387;37,81;Pequeno I;0,696
+3203403;Mimoso do Sul;Rural Adjacente;869,439;24475;28,15;Pequeno II;0,670
+3203502;Montanha;Intermediário Adjacente;1099,060;18900;17,20;Pequeno I;0,667
+3203601;Mucurici;Rural Adjacente;540,529;5466;10,11;Pequeno I;0,666
+3203700;Muniz Freire;Rural Adjacente;678,804;18153;26,74;Pequeno I;0,645
+3203809;Muqui;Rural Adjacente;327,268;13745;42,00;Pequeno I;0,694
+3203908;Nova Venécia;Urbano;1439,571;49065;34,08;Pequeno II;0,712
+3204005;Pancas;Rural Adjacente;837,842;18893;22,55;Pequeno II;0,667
+3204054;Pedro Canário;Intermediário Adjacente;433,453;21522;49,65;Pequeno II;0,654
+3204104;Pinheiros;Intermediário Adjacente;973,136;23915;24,58;Pequeno II;0,673
+3204203;Piúma;Urbano;74,046;22300;301,16;Pequeno I;0,727
+3204252;Ponto Belo;Rural Adjacente;360,110;6497;18,04;Pequeno I;0,669
+3204302;Presidente Kennedy;Rural Adjacente;594,897;13696;23,02;Pequeno I;0,657
+3204351;Rio Bananal;Rural Adjacente;641,929;19274;30,03;Pequeno I;0,681
+3204401;Rio Novo do Sul;Rural Adjacente;204,464;11069;54,14;Pequeno I;0,711
+3204500;Santa Leopoldina;Rural Adjacente;718,325;13106;18,25;Pequeno I;0,626
+3204559;Santa Maria de Jetibá;Rural Adjacente;735,198;41636;56,63;Pequeno II;0,671
+3204609;Santa Teresa;Rural Adjacente;683,032;22808;33,39;Pequeno II;0,714
+3204658;São Domingos do Norte;Rural Adjacente;298,580;8589;28,77;Pequeno I;0,682
+3204708;São Gabriel da Palha;Intermediário Adjacente;434,887;32252;74,16;Pequeno II;0,709
+3204807;São José do Calçado;Rural Adjacente;273,489;10878;39,77;Pequeno I;0,688
+3204906;São Mateus;Urbano;2346,049;123752;52,75;Grande;0,735
+3204955;São Roque do Canaã;Rural Adjacente;341,944;10886;31,84;Pequeno I;0,700
+3205002;Serra;Urbano;547,631;520653;950,74;Grande;0,739
+3205010;Sooretama;Intermediário Adjacente;587,036;26502;45,15;Pequeno II;0,662
+3205036;Vargem Alta;Rural Adjacente;417,760;19563;46,83;Pequeno I;0,663
+3205069;Venda Nova do Imigrante;Rural Adjacente;185,909;23831;128,19;Pequeno II;0,728
+3205101;Viana;Urbano;312,279;73423;235,12;Médio;0,686
+3205150;Vila Pavão;Rural Adjacente;433,257;8911;20,57;Pequeno I;0,681
+3205176;Vila Valério;Rural Adjacente;470,343;13728;29,19;Pequeno I;0,675
+3205200;Vila Velha;Urbano;210,225;467722;2224,86;Grande;0,800
+3205309;Vitória;Urbano;97,123;322869;3324,33;Grande;0,845
