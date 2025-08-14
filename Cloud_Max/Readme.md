@@ -1,1 +1,1 @@
-Aqui serão armazenados os arquivos de Cloud Computing
+Aqui serão armazenados os arquivos da disciplina de Cloud Computing com o Prof. Maxwell Monteiro.
